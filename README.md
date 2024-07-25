@@ -41,7 +41,7 @@ Após rodar o comando basta acessar a url: http://localhost:3000
 *Caso queira rodar também a aplicação console, em um novo terminal, acesse a pasta onde baixou os projetos e execute o comando:
 Poc.ChatConsoleApp
 ```
-dotnet run --project ./signalr-app/Poc.ChatService/ --launch-profile "http"
+dotnet run --project ./signalr-app/Poc.ChatConsoleApp/
 ```
 
 
